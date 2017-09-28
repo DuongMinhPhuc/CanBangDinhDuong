@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CanBangDinhDuong</string>
+    <string name="tinh_bot">Tinh bột</string>
+    <string name="protein">Protein</string>
+    <string name="chat_beo">Chất Béo</string>
+    <string name="vitamin">Vitamin và khoáng chất</string>
+    <string name="next">Next</string>
+    <string name="bm">Bột Mỳ</string>
+    <string name="gao">Gạo</string>
+    <string name="ngo">Ngô</string>
+    <string name="buton">NEXT</string>
+    <string name="ng_c_c">Ngũ Cốc</string>
+</resources>
